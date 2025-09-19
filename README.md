@@ -32,11 +32,7 @@ The two flags passed to the `run` command hide the noisy output from Gradle. You
 
 ## Running Benchmarks
 
-You can run the benchmarking utility using:
-
-```bash
-./gradlew jmh
-```
+We will not be benchmarking any code in this lab. Thus, you do not need to worry about running jmh.
 
 [gradle]: https://gradle.org/
 [jmh]: https://github.com/openjdk/jmh
